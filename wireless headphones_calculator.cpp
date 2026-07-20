@@ -18,7 +18,7 @@ int main(){
     int dem = 0;
     int giamax = -1;
 
-    for (int i = 1; i <= n; i++){
+    for (int i = 1; i <= n; i++){  //  O(N)
         cin >> gia;
 
         tong += gia;
