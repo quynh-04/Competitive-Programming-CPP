@@ -4,3 +4,4 @@ This repository contains my C++ algorithmic solutions developed during high scho
 - **water_bill_calculator.cpp*: A smart program using modular functions and progressive tariff logic ('if - else') to calculate monthly water bills, track total consumption, and find peak usage days.
 - **score_exam_calculator.cpp*: An intelligent program utilizes modular functions, precise values, and progressive scoring logic (using "if-else" structures) to calculate average exam scores, track the number of students achieving the average, and identify the top-scoring students.
 - **batery_meet the standards_calculator.cpp*: Discuss the number of batteries that meet the standards and select the number of batteries that satisfy the required criteria.
+- **wireless headphones_calculator.cpp* : Calculate the price of the wireless headphones and the complexity of the algorithm.
