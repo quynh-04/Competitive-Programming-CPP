@@ -8,3 +8,11 @@ This repository contains my C++ algorithmic solutions developed during high scho
 - **security technology_calculator.cpp* : Calculate the number of characters in the password and the level of security.
 - **capacity (GB)_calculator.cpp* : Calculator  the total Gb and max.
 - **exam scores_calculator.cpp* : A problem involving the use of arrays and precision to calculate the total score, as well as the maximum and minimum scores.
+- **laptop_calculator.cpp* : Calculate the total value of all laptops using the array.
+                             Identify the most expensive laptop and its position.
+                             Identify the cheapest laptop and its position.
+                             Count the number of laptops priced at 20,000,000 VND or higher.
+                             Calculate the total value of laptops priced at 20,000,000 VND or higher.
+                             Calculate the average price of laptops priced at 20,000,000 VND or higher (print 0 if none exist).
+                             Count the number of laptops with prices that are multiples of 1,000,000.
+                             Print the difference between the prices of the most expensive and cheapest laptops.
