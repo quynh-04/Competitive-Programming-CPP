@@ -59,3 +59,14 @@ int main(){
 
     return 0;
 }
+
+INPUT                                       OUTPUT
+5                                           112000000
+18000000                                    30000000 4 
+22000000                                    17000000 3
+25000000                                    3
+17000000                                    77000000
+30000000                                    2.56667e+07
+                                            5
+                                            13000000
+                                            rocess returned 0 (0x0)   execution time : 34.203 s. Press any key to continue.
