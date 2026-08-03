@@ -7,3 +7,4 @@ This repository contains my C++ algorithmic solutions developed during high scho
 - **wireless headphones_calculator.cpp* : Calculate the price of the wireless headphones and the complexity of the algorithm.
 - **security technology_calculator.cpp* : Calculate the number of characters in the password and the level of security.
 - **capacity (GB)_calculator.cpp* : Calculator  the total Gb and max.
+- **exam scores_calculator.cpp* : A problem involving the use of arrays and precision to calculate the total score, as well as the maximum and minimum scores.
