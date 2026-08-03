@@ -6,3 +6,4 @@ This repository contains my C++ algorithmic solutions developed during high scho
 - **batery_meet the standards_calculator.cpp*: Discuss the number of batteries that meet the standards and select the number of batteries that satisfy the required criteria.
 - **wireless headphones_calculator.cpp* : Calculate the price of the wireless headphones and the complexity of the algorithm.
 - **security technology_calculator.cpp* : Calculate the number of characters in the password and the level of security.
+- **capacity (GB)_calculator.cpp* : Calculator  the total Gb and max.
